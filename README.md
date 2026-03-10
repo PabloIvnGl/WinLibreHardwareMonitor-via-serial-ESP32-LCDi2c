@@ -1,6 +1,6 @@
 # 🖥️ WindowsStats Monitor Temp & ram usage → Serial → ESP32 → LCD i2c
 
-Monitor hardware stats from **Windows 10** (CPU, GPU, RAM, temps) displayed in real-time on a **2x16 LCD i2c** connected to an **ESP32**, using **LibreHardwareMonitor** as data source via HTTP + Python serial bridge.
+Monitor hardware stats from **Windows 10** (CPU°, GPU°, RAM,) displayed in real-time on a **2x16 LCD i2c** connected to an **ESP32**, using **LibreHardwareMonitor** as data source via HTTP + Python serial bridge.
 
 <img width="703" height="834" alt="image" src="https://github.com/user-attachments/assets/4918dd16-4c2d-468c-9046-e3c04294bea2" />
 ---
