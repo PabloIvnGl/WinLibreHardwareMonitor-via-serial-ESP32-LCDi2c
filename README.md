@@ -140,10 +140,10 @@ You should see live output in the terminal and the LCD updating every few second
 The 2x16 LCD cycles through screens:
 
 ```
-┌────────────────┐     ┌────────────────┐
-│ CPU  45°C  23% │     │ GPU  62°C  48% │
-│ RAM  8.1GB 58% │     │ VRAM 4.2GB 52% │
-└────────────────┘     └────────────────┘
+┌─────────────────────┐
+│ CPU  45C GPU  62C   │
+│    RAM  8.1GB       │
+└─────────────────────┘
 ```
 
 ---
